@@ -1,0 +1,12 @@
+src create 
+res create 
+savegames create 
+temp create 
+main create 
+test create 
+Main.java create 
+Utils.java create 
+drawables create 
+vectors create 
+icons create 
+temp.txt create 
